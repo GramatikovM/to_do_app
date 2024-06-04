@@ -1,0 +1,8 @@
+.paginationContainer {
+  display: flex;
+  gap: 0.25em;
+}
+
+.activePage {
+  background-color: #f59426;
+}

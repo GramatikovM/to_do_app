@@ -1,0 +1,27 @@
+.addNoteContainer {
+  width: 60vw;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  justify-content: space-between;
+  border: 1px solid #c4c2c2;
+  border-radius: 0.5em;
+  box-shadow: #c4c2c2 2px 5px 10px 4px;
+}
+
+.addNoteWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.paginationContainer {
+  display: flex;
+  justify-content: center;
+}

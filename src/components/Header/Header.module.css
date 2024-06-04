@@ -1,0 +1,12 @@
+.headerWrapper {
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin: 0.5em 0;
+  text-align: center;
+}
+
+.headerText {
+  font-size: 2em;
+  font-weight: 600;
+}
